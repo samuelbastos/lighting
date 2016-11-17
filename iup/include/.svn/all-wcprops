@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/svi/!svn/ver/77724/trunk/dependencies/tec/iup/include
+END
+iupsbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/svi/!svn/ver/77724/trunk/dependencies/tec/iup/include/iupsbox.h
+END
+iupole.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/svi/!svn/ver/77724/trunk/dependencies/tec/iup/include/iupole.h
+END
+iupluaweb.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/svi/!svn/ver/77724/trunk/dependencies/tec/iup/include/iupluaweb.h
+END
+iup.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/svi/!svn/ver/77724/trunk/dependencies/tec/iup/include/iup.h
+END
+iupluatuio.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/svi/!svn/ver/77724/trunk/dependencies/tec/iup/include/iupluatuio.h
+END
+iupgauge.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/svi/!svn/ver/77724/trunk/dependencies/tec/iup/include/iupgauge.h
+END
+iup_pplot.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/svi/!svn/ver/77724/trunk/dependencies/tec/iup/include/iup_pplot.h
+END
+iupdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/svi/!svn/ver/77724/trunk/dependencies/tec/iup/include/iupdef.h
+END
+iuptree.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/svi/!svn/ver/77724/trunk/dependencies/tec/iup/include/iuptree.h
+END
+iupcolorbar.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/svi/!svn/ver/77724/trunk/dependencies/tec/iup/include/iupcolorbar.h
+END
+iupcontrols.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/svi/!svn/ver/77724/trunk/dependencies/tec/iup/include/iupcontrols.h
+END
+iupmatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/svi/!svn/ver/77724/trunk/dependencies/tec/iup/include/iupmatrix.h
+END
+iupluagl.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/svi/!svn/ver/77724/trunk/dependencies/tec/iup/include/iupluagl.h
+END
+iupluaim.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/svi/!svn/ver/77724/trunk/dependencies/tec/iup/include/iupluaim.h
+END
+iup_plplot.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/svi/!svn/ver/77724/trunk/dependencies/tec/iup/include/iup_plplot.h
+END
+iupweb.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/svi/!svn/ver/77724/trunk/dependencies/tec/iup/include/iupweb.h
+END
+iuptuio.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/svi/!svn/ver/77724/trunk/dependencies/tec/iup/include/iuptuio.h
+END
+iupluaole.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/svi/!svn/ver/77724/trunk/dependencies/tec/iup/include/iupluaole.h
+END
+iuplua.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/svi/!svn/ver/77724/trunk/dependencies/tec/iup/include/iuplua.h
+END
+iupval.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/svi/!svn/ver/77724/trunk/dependencies/tec/iup/include/iupval.h
+END
+iupcb.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/svi/!svn/ver/77724/trunk/dependencies/tec/iup/include/iupcb.h
+END
+iupkey.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/svi/!svn/ver/77724/trunk/dependencies/tec/iup/include/iupkey.h
+END
+iuptabs.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/svi/!svn/ver/77724/trunk/dependencies/tec/iup/include/iuptabs.h
+END
+iupgc.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/svi/!svn/ver/77724/trunk/dependencies/tec/iup/include/iupgc.h
+END
+iupmask.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/svi/!svn/ver/77724/trunk/dependencies/tec/iup/include/iupmask.h
+END
+iupcbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/svi/!svn/ver/77724/trunk/dependencies/tec/iup/include/iupcbox.h
+END
+iuplua_pplot.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/svi/!svn/ver/77724/trunk/dependencies/tec/iup/include/iuplua_pplot.h
+END
+iupgetparam.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/svi/!svn/ver/77724/trunk/dependencies/tec/iup/include/iupgetparam.h
+END
+iupcells.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/svi/!svn/ver/77724/trunk/dependencies/tec/iup/include/iupcells.h
+END
+iupgl.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/svi/!svn/ver/77724/trunk/dependencies/tec/iup/include/iupgl.h
+END
+iupluacontrols.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/svi/!svn/ver/77724/trunk/dependencies/tec/iup/include/iupluacontrols.h
+END
+iupim.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/svi/!svn/ver/77724/trunk/dependencies/tec/iup/include/iupim.h
+END
+iupcbs.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/svi/!svn/ver/77724/trunk/dependencies/tec/iup/include/iupcbs.h
+END
+iupspin.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/svi/!svn/ver/77724/trunk/dependencies/tec/iup/include/iupspin.h
+END
+iupdial.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/svi/!svn/ver/77724/trunk/dependencies/tec/iup/include/iupdial.h
+END

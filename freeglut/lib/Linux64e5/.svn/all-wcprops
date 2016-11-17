@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/svi/!svn/ver/78422/trunk/dependencies/ext/freeglut/lib/Linux64e5
+END
+libglut.a
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/svi/!svn/ver/78422/trunk/dependencies/ext/freeglut/lib/Linux64e5/libglut.a
+END
+libglut.so
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/svi/!svn/ver/78422/trunk/dependencies/ext/freeglut/lib/Linux64e5/libglut.so
+END
+libglut.so.3
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/svi/!svn/ver/78422/trunk/dependencies/ext/freeglut/lib/Linux64e5/libglut.so.3
+END
+libglut.so.3.9.0
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/svi/!svn/ver/78422/trunk/dependencies/ext/freeglut/lib/Linux64e5/libglut.so.3.9.0
+END
+libglut.la
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/svi/!svn/ver/78422/trunk/dependencies/ext/freeglut/lib/Linux64e5/libglut.la
+END

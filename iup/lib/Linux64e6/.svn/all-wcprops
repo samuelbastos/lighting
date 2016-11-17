@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/svi/!svn/ver/77727/trunk/dependencies/tec/iup/lib/Linux64e6
+END
+libiup_pplot.a
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/svi/!svn/ver/77727/trunk/dependencies/tec/iup/lib/Linux64e6/libiup_pplot.a
+END
+libiup_pplot.so
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/svi/!svn/ver/77727/trunk/dependencies/tec/iup/lib/Linux64e6/libiup_pplot.so
+END
+libiup.a
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/svi/!svn/ver/77727/trunk/dependencies/tec/iup/lib/Linux64e6/libiup.a
+END
+libiup.so
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/svi/!svn/ver/77727/trunk/dependencies/tec/iup/lib/Linux64e6/libiup.so
+END
+libiupgl.a
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/svi/!svn/ver/77727/trunk/dependencies/tec/iup/lib/Linux64e6/libiupgl.a
+END
+libiupcontrols.a
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/svi/!svn/ver/77727/trunk/dependencies/tec/iup/lib/Linux64e6/libiupcontrols.a
+END
+libiupgl.so
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/svi/!svn/ver/77727/trunk/dependencies/tec/iup/lib/Linux64e6/libiupgl.so
+END
+libiupimglib.a
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/svi/!svn/ver/77727/trunk/dependencies/tec/iup/lib/Linux64e6/libiupimglib.a
+END
+libiupcontrols.so
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/svi/!svn/ver/77727/trunk/dependencies/tec/iup/lib/Linux64e6/libiupcontrols.so
+END
+libiupimglib.so
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/svi/!svn/ver/77727/trunk/dependencies/tec/iup/lib/Linux64e6/libiupimglib.so
+END
+libiupim.a
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/svi/!svn/ver/77727/trunk/dependencies/tec/iup/lib/Linux64e6/libiupim.a
+END
+libiupcd.a
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/svi/!svn/ver/77727/trunk/dependencies/tec/iup/lib/Linux64e6/libiupcd.a
+END
+libiupim.so
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/svi/!svn/ver/77727/trunk/dependencies/tec/iup/lib/Linux64e6/libiupim.so
+END
+libiupcd.so
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/svi/!svn/ver/77727/trunk/dependencies/tec/iup/lib/Linux64e6/libiupcd.so
+END
